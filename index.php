@@ -1,7 +1,7 @@
 <?php
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * index.php
+ * @author John Doe <john.doe@example.com>
+ * @copyright (c) 2013, John Doe
  */
 ?>
