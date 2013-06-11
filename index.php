@@ -1,4 +1,5 @@
 <?php
+
 /**
  * index.php
  * @author John Doe <john.doe@example.com>
